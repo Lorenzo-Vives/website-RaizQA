@@ -88,4 +88,14 @@ toc: false
 <p class="collab-email">✉️ <a href="mailto:ramirezg@estudiante.uc.cl">ramirezg@estudiante.uc.cl</a></p>
 </details>
 :::
+
+::: {.collab-member}
+<details>
+<summary>
+<span class="name">Jose Antonio Anguita</span>
+<span class="role">Licencias - Bibliotecas UC</span>
+</summary>
+<p class="collab-email">✉️ <a href="mailto:joanguita@uc.cl">joanguita@uc.cl</a></p>
+</details>
+:::
 :::
