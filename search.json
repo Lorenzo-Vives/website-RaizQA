@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "Reporta un bug.html",
+    "href": "Reporta un bug.html",
+    "title": "Reporta un bug",
+    "section": "",
+    "text": "Para reportar un bug, envía un mail a lorenzo_vives@uc.cl o levanta una issue en GitHub: https://github.com/Lorenzo-Vives/RaizQA/issues"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RaizQA 🌱",
+    "section": "",
+    "text": "RaizQA 🌱\n\nAnálisis cualitativo, abierto y para todos\n\nDescubre un nuevo software de análisis cualitativo open source y totalmente gratis, pensado para acompañar la investigación desde sus etapas formativas hasta la investigación avanzada.\n\nInstalar RaizQA ¿Qué es RaizQA?\n\n\n\n\n🔓 Open source\nCódigo abierto y transparente, desarrollado con y para la comunidad académica.\n\n\n💸 Totalmente gratuito\nSin licencias, suscripciones ni costos ocultos.\n\n\n🧭 Intuitivo\nPensado para acompañarte en cada etapa del análisis cualitativo."
+  },
+  {
+    "objectID": "Agradecimientos.html",
+    "href": "Agradecimientos.html",
+    "title": "Agradecimientos",
+    "section": "",
+    "text": "RaizQA y sus desarrolladores agradecen al Instituto de Sociología UC (ISUC) y a la Pontificia Universidad Católica de Chile por las oportunidades y el apoyo económico brindado para el desarrollo de este software.\nSu respaldo ha sido fundamental para poder construir una herramienta de análisis cualitativo abierta, gratuita y pensada para la comunidad académica.\nPuedes encontrar más información sobre el ISUC en su web sociologia.uc.cl."
+  },
+  {
+    "objectID": "Contacto.html",
+    "href": "Contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Para contacto general, propuestas de implementación, colaboración o cualquier consulta sobre RaizQA, escríbenos:\n📧 lorenzo_vives@uc.cl"
+  },
+  {
+    "objectID": "Licencia.html",
+    "href": "Licencia.html",
+    "title": "Licencia",
+    "section": "",
+    "text": "RaizQA se distribuye bajo los términos de la Licencia MIT, sujeta a una restricción de no comercialización basada en la Commons Clause.\nEsto significa que puedes usar, copiar, modificar y distribuir el software, siempre que no vendas, revendas, sublicencies ni ofrezcas el software o el acceso al software como un servicio comercial que compita sustancialmente con un producto o servicio comercial basado en RaizQA.\nEl uso del software para investigación propia, académica o institucional —incluso con financiamiento— está permitido, siempre que el software en sí mismo no sea vendido como servicio comercial.\n\n\nVer texto completo de la licencia (español / english)\n\n==============================================================================\nESPAÑOL - SPANISH\n==============================================================================\nLicencia de Software de Análisis Cualitativo - RaizQA\n\nEste software se distribuye bajo los términos de la Licencia MIT (que se detalla más abajo), SUJETO A LA RESTRICCIÓN DE LA COMMONS CLAUSE QUE SE DESCRIBE A CONTINUACIÓN.\n\n==============================================================================\nCOMMONS CLAUSE AMENDMENT (ENMIENDA DE LA CLÁUSULA DE LOS COMUNES)\n==============================================================================\n\nEl otorgamiento de derechos de licencia sobre este Software bajo la Licencia MIT adjunta está expresamente sujeto a la siguiente condición:\n\nNo Comercialización: El Licenciatario no podrá vender, revender o sublicenciar el Software, ni el acceso al mismo, ni utilizar el Software para proporcionar un servicio a terceros que compita sustancialmente con un producto o servicio comercial ofrecido por el Licenciante que esté basado en el Software. Para mayor claridad, el uso del Software para análisis de datos de investigación propia, académica o institucional (incluso si cuenta con financiamiento) no se considera comercialización bajo esta cláusula, siempre y cuando no se venda el software en sí mismo como un servicio comercial.\n\n==============================================================================\nTEXTO DE LA LICENCIA BASE (MIT LICENSE)\n==============================================================================\n\nCopyright (c) 2026 Lorenzo Vives\n\nPor la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el \"Software\"), para utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar y distribuir copias del Software, SUJETO SIEMPRE a la Cláusula de los Comunes detallada anteriormente y a las siguientes condiciones:\n\nEl aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.\n\nEL SOFTWARE SE PROPORCIONA \"TAL CUAL\", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.\n\n\n==============================================================================\nENGLISH - INGLÉS\n==============================================================================\n\nQualitative Analysis Software License - RaizQA\n\nThis software is distributed under the terms of the MIT License (detailed below), SUBJECT TO THE COMMONS CLAUSE RESTRICTION DESCRIBED BELOW.\n\n==============================================================================\nCOMMONS CLAUSE AMENDMENT (COMMONS CLAUSE AMENDMENT)\n==============================================================================\n\nThe grant of license rights over this Software under the attached MIT License is expressly subject to the following condition:\n\nNo Commercialization: The Licensee may not sell, resell, or sublicense the Software, or access to it, or use the Software to provide a service to third parties that substantially competes with a commercial product or service offered by the Licensor that is based on the Software. For greater clarity, the use of the Software for analysis of one's own research, academic, or institutional data (even if funded) is not considered commercialization under this clause, provided that the software itself is not sold as a commercial service.\n\n==============================================================================\nBASE LICENSE TEXT (MIT LICENSE)\n==============================================================================\n\nCopyright (c) 2026 Lorenzo Vives\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to use the Software without restriction, including without limitation the rights to use, copy, modify, merge, and distribute copies of the Software, ALWAYS SUBJECT to the Commons Clause detailed above and to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "¿Qué es RaizQA?",
+    "section": "",
+    "text": "RaizQA🌱 es un software de análisis cualitativo open source que nace de la necesidad de un software abierto, gratuito e intuitivo para realizar análisis e investigación cualitativa desde sus etapas formativas hasta investigación avanzada."
+  },
+  {
+    "objectID": "about.html#funciones-del-software",
+    "href": "about.html#funciones-del-software",
+    "title": "¿Qué es RaizQA?",
+    "section": "Funciones del software",
+    "text": "Funciones del software\n\n\nGestión de proyectos con guardado automático\nOrganiza tu investigación en proyectos independientes que se guardan automáticamente mientras trabajas, evitando la pérdida de avances.\n\n\nImportación de múltiples formatos\nIncorpora tus fuentes de datos en texto (.txt, .pdf, .docx) e imágenes (.png, .jpg, .jpeg, .bmp, .gif, .tiff), sin necesidad de conversiones previas.\n\n\nCodificación de texto por selección\nSelecciona cualquier fragmento de un documento y asígnale uno o más códigos en pocos clics.\n\n\nCodificación de imágenes por zonas\nCodifica regiones específicas de una imagen; las coordenadas quedan ancladas en el espacio de la imagen y se mantienen estables aunque cambie el zoom o la vista.\n\n\nÁrbol de códigos con subcódigos, color y memos\nOrganiza el sistema de códigos en una estructura jerárquica, asigna colores para identificarlos visualmente y adjunta memos con anotaciones analíticas.\n\n\nDiario de codificación con exportación a Word\nRegistra las decisiones y reflexiones del proceso analítico en un diario integrado, exportable a Word para dar trazabilidad al análisis.\n\n\nExportación del sistema de códigos a Excel\nLleva tu árbol de códigos a una planilla Excel para respaldarlo, compartirlo o analizarlo fuera del software.\n\n\nVisor de fragmentos codificados\nRevisa todos los fragmentos asociados a un código en una sola vista, sin recorrer documento por documento.\n\n\nComparación de documentos\nContrasta dos o más documentos codificados para identificar similitudes, diferencias y patrones entre casos.\n\n\nCode Matrix Browser\nVisualiza la relación entre códigos y documentos en una matriz interactiva, con vista de tabla y de mapa de calor (heatmap).\n\n\nNube de palabras\nGenera nubes de palabras a partir de tus documentos para explorar rápidamente los términos más frecuentes.\n\n\nAgrupación de códigos en temas o categorías\nReúne códigos relacionados en temas o categorías de mayor nivel para facilitar el análisis interpretativo.\n\n\nEstudio de casos\nDefine casos de estudio a partir de documentos o carpetas completas para comparar unidades de análisis.\n\n\nTrabajo en equipo\nExporta, importa y fusiona proyectos para colaborar con otros investigadores sin perder la codificación realizada."
+  },
+  {
+    "objectID": "Nosotros.html",
+    "href": "Nosotros.html",
+    "title": "Nosotros",
+    "section": "",
+    "text": "Rol: Fundador y desarrollador\n\n\n\nSociólogo y Magíster en Sociología, Pontificia Universidad Católica de Chile\n\n\nAsistente de Investigación, Escuela de Gobierno UC\n\n\n\n✉️ lorenzo_vives@uc.cl\n\n\n\n\nLorenzo Vives\n\n\n\n\n\n\n\n\n\nRol: Asesoría y coordinación del proyecto\n\n\n\nDoctora en Sociología, École des Hautes Études en Sciences Sociales\n\n\nMaster 2 en Sciences Sociales (mención Sociología), École des Hautes Études en Sciences Sociales\n\n\nSocióloga, Pontificia Universidad Católica de Chile\n\n\nProfesora Asociada, Instituto de Sociología UC\n\n\n\n✉️ cgiacoma@uc.cl\n\n\n\n\nClaudia Giacoman\n\n\n\n\n\n\n\n\n\nRol: Financiamiento\n\n\n\nDoctor en Ciencias Políticas, Universidad de Michigan, Ann Arbor\n\n\nMagíster en Sociología, Pontificia Universidad Católica de Chile\n\n\nSociólogo, Pontificia Universidad Católica de Chile\n\n\nDirector del Instituto de Sociología UC. Profesor Asociado\n\n\n\n✉️ mbargsted@uc.cl\n\n\n\n\nMatías Bargsted"
+  },
+  {
+    "objectID": "Nosotros.html#equipo",
+    "href": "Nosotros.html#equipo",
+    "title": "Nosotros",
+    "section": "",
+    "text": "Rol: Fundador y desarrollador\n\n\n\nSociólogo y Magíster en Sociología, Pontificia Universidad Católica de Chile\n\n\nAsistente de Investigación, Escuela de Gobierno UC\n\n\n\n✉️ lorenzo_vives@uc.cl\n\n\n\n\nLorenzo Vives\n\n\n\n\n\n\n\n\n\nRol: Asesoría y coordinación del proyecto\n\n\n\nDoctora en Sociología, École des Hautes Études en Sciences Sociales\n\n\nMaster 2 en Sciences Sociales (mención Sociología), École des Hautes Études en Sciences Sociales\n\n\nSocióloga, Pontificia Universidad Católica de Chile\n\n\nProfesora Asociada, Instituto de Sociología UC\n\n\n\n✉️ cgiacoma@uc.cl\n\n\n\n\nClaudia Giacoman\n\n\n\n\n\n\n\n\n\nRol: Financiamiento\n\n\n\nDoctor en Ciencias Políticas, Universidad de Michigan, Ann Arbor\n\n\nMagíster en Sociología, Pontificia Universidad Católica de Chile\n\n\nSociólogo, Pontificia Universidad Católica de Chile\n\n\nDirector del Instituto de Sociología UC. Profesor Asociado\n\n\n\n✉️ mbargsted@uc.cl\n\n\n\n\nMatías Bargsted"
+  },
+  {
+    "objectID": "Nosotros.html#colaboradores",
+    "href": "Nosotros.html#colaboradores",
+    "title": "Nosotros",
+    "section": "Colaboradores",
+    "text": "Colaboradores\n\n\n\n\nTomás Leva Estudiante Sociología UC\n\n\n✉️ tgl@uc.cl\n\n\n\n\n\n\nJoaquín Bächler Estudiante Ingeniería Ciencia de Datos UC\n\n\n✉️ jabachler@uc.cl\n\n\n\n\n\n\nGaspar Ramírez Estudiante Ingeniería Ciencias de la Computación UC\n\n\n✉️ ramirezg@estudiante.uc.cl"
+  },
+  {
+    "objectID": "Guías.html",
+    "href": "Guías.html",
+    "title": "Guías",
+    "section": "",
+    "text": "🚧 Apartado en construcción. ¡Pronto más detalles!"
+  },
+  {
+    "objectID": "Instalación.html",
+    "href": "Instalación.html",
+    "title": "Instalación",
+    "section": "",
+    "text": "Descarga la última versión disponible: RaizQA v1.0piloto\nDescargar RaizQA.exe\n⚠️ Nota: Windows puede mostrar una advertencia. Usa “Más información” → “Ejecutar de todas formas”."
+  },
+  {
+    "objectID": "Instalación.html#instalar-en-windows",
+    "href": "Instalación.html#instalar-en-windows",
+    "title": "Instalación",
+    "section": "",
+    "text": "Descarga la última versión disponible: RaizQA v1.0piloto\nDescargar RaizQA.exe\n⚠️ Nota: Windows puede mostrar una advertencia. Usa “Más información” → “Ejecutar de todas formas”."
+  },
+  {
+    "objectID": "Instalación.html#instalar-en-mac",
+    "href": "Instalación.html#instalar-en-mac",
+    "title": "Instalación",
+    "section": "Instalar en Mac",
+    "text": "Instalar en Mac"
+  },
+  {
+    "objectID": "Instalación.html#instalar-en-linux",
+    "href": "Instalación.html#instalar-en-linux",
+    "title": "Instalación",
+    "section": "Instalar en Linux",
+    "text": "Instalar en Linux\nPara instalar RaizQA en Linux desde cero, clona el repositorio y monta un entorno virtual de Python siguiendo estos pasos:\n# 1. Clonar el repositorio del proyecto\ngit clone https://github.com/Lorenzo-Vives/RaizQA.git\n\n# 2. Entrar a la carpeta del proyecto\ncd RaizQA\n\n# 3. Crear un entorno virtual\npython3 -m venv venv\n\n# 4. Activar el entorno virtual\nsource venv/bin/activate\n\n# 5. Instalar las dependencias\npip install -r requirements.txt\n\n# 6. Ejecutar la aplicación\npython main.py\n\n\n\n\n\n\nNoteVersiones en desarrollo\n\n\n\nLas versiones menos estables —que incorporan pruebas y nuevas funciones antes de su lanzamiento oficial— están disponibles en el repositorio de GitHub de RaizQA."
+  }
+]

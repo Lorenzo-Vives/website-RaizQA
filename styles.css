@@ -1,0 +1,322 @@
+/* RaizQA — estilos generales */
+
+body {
+  color: #2b2f2c;
+}
+
+.navbar {
+  box-shadow: 0 1px 0 rgba(0,0,0,.06);
+}
+
+/* ---------- Hero (index) ---------- */
+.hero {
+  text-align: center;
+  padding: 4.5rem 1rem 3rem;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 2.75rem;
+  margin-bottom: .25rem;
+}
+
+.hero .subtitle {
+  font-size: 1.35rem;
+  color: #4a544c;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  color: #565f57;
+  margin-bottom: 2rem;
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn-primary,
+.btn-secondary {
+  display: inline-block;
+  padding: .7rem 1.6rem;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.btn-primary {
+  background: #3f8f63;
+  color: #fff !important;
+  box-shadow: 0 4px 14px rgba(63,143,99,.35);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: #2f6b4f !important;
+  border: 1.5px solid #2f6b4f;
+}
+
+.btn-primary:hover,
+.btn-secondary:hover {
+  transform: translateY(-2px);
+}
+
+.install-screenshot {
+  display: block;
+  max-width: 100%;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.1);
+  box-shadow: 0 4px 14px rgba(0,0,0,.08);
+  margin: 1rem 0 1.5rem;
+}
+
+/* ---------- Feature cards ---------- */
+.features {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  max-width: 1000px;
+  margin: 1rem auto 3rem;
+  padding: 0 1rem;
+}
+
+@media (max-width: 760px) {
+  .features { grid-template-columns: 1fr; }
+}
+
+.feature-card {
+  background: #eaf3ec;
+  border-radius: 14px;
+  padding: 1.6rem 1.4rem;
+  text-align: left;
+}
+
+.feature-card h3 {
+  margin-top: 0;
+  font-size: 1.15rem;
+  color: #2f6b4f;
+}
+
+.feature-card p {
+  margin-bottom: 0;
+  color: #4a544c;
+  font-size: .97rem;
+}
+
+/* ---------- Funciones (about) ---------- */
+.function-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+@media (max-width: 760px) {
+  .function-grid { grid-template-columns: 1fr; }
+}
+
+.function-card {
+  background: #eaf3ec;
+  border-radius: 14px;
+  padding: 1.3rem 1.4rem;
+}
+
+.function-card h3 {
+  margin-top: 0;
+  font-size: 1.05rem;
+  color: #2f6b4f;
+}
+
+.function-card p {
+  margin-bottom: 0;
+  color: #4a544c;
+  font-size: .95rem;
+}
+
+/* ---------- Licencia ---------- */
+.license-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #2f6b4f;
+  margin-bottom: 1rem;
+}
+
+.license-text {
+  max-height: 480px;
+  overflow-y: auto;
+  background: #eaf3ec;
+  border-radius: 10px;
+  padding: 1.2rem 1.4rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .82rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  color: #2b2f2c;
+}
+
+/* ---------- Agradecimientos ---------- */
+.sponsor-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+  margin: 2.5rem 0 1rem;
+  padding: 2rem;
+  background: #eaf3ec;
+  border-radius: 14px;
+}
+
+.sponsor-logo {
+  height: 110px;
+  width: auto;
+  max-width: 260px;
+  object-fit: contain;
+}
+
+/* ---------- Equipo ---------- */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  gap: 2rem;
+  text-align: center;
+  margin: 2rem 0 3rem;
+}
+
+@media (max-width: 700px) {
+  .team-grid { grid-template-columns: 1fr; }
+}
+
+.team-member {
+  width: auto;
+  max-width: 280px;
+  margin: 0 auto;
+}
+
+.team-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #eaf3ec;
+  box-shadow: 0 4px 14px rgba(0,0,0,.08);
+  cursor: pointer;
+  transition: transform .15s ease;
+}
+
+.team-photo:hover {
+  transform: scale(1.04);
+}
+
+.team-details summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.team-details summary::-webkit-details-marker,
+.team-details summary::marker {
+  display: none;
+  content: "";
+}
+
+.team-bio {
+  max-width: 100%;
+  margin: .85rem auto 0;
+  padding: .9rem 1.1rem;
+  background: #eaf3ec;
+  border-radius: 10px;
+  color: #4a544c;
+  font-size: .88rem;
+  text-align: left;
+}
+
+.team-bio .bio-role {
+  margin: 0 0 .5rem;
+  font-weight: 600;
+  color: #2f6b4f;
+}
+
+.team-bio .bio-details {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.team-bio .bio-details li {
+  margin-bottom: .3rem;
+}
+
+.team-bio .bio-details li:last-child {
+  margin-bottom: 0;
+}
+
+.team-bio .bio-email {
+  margin: .6rem 0 0;
+  padding-top: .6rem;
+  border-top: 1px solid rgba(47,107,79,.2);
+  color: #2f6b4f;
+  font-weight: 500;
+}
+
+.team-name {
+  font-weight: 600;
+  margin: .75rem 0 0;
+}
+
+/* ---------- Colaboradores ---------- */
+.collab-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 2rem 0 3rem;
+}
+
+.collab-member {
+  width: 100%;
+  max-width: 640px;
+  background: #eaf3ec;
+  border-radius: 14px;
+  padding: 1.1rem 1.8rem;
+}
+
+.collab-member summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .4rem 1rem;
+}
+
+.collab-member summary::-webkit-details-marker,
+.collab-member summary::marker {
+  display: none;
+  content: "";
+}
+
+.collab-member .name {
+  font-weight: 600;
+  color: #2f6b4f;
+}
+
+.collab-member .role {
+  color: #4a544c;
+  font-size: .93rem;
+}
+
+.collab-email {
+  margin: .9rem 0 0;
+  padding-top: .75rem;
+  border-top: 1px solid rgba(47,107,79,.2);
+  color: #2f6b4f;
+  font-weight: 500;
+}
