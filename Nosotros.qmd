@@ -1,0 +1,91 @@
+---
+title: "Nosotros"
+toc: false
+---
+
+## Equipo
+
+::: {.team-grid}
+::: {.team-member}
+<details class="team-details">
+<summary><img src="lorenzo.jpeg" class="team-photo" alt="Lorenzo Vives"></summary>
+<div class="team-bio">
+<p class="bio-role">Rol: Fundador y desarrollador</p>
+<ul class="bio-details">
+<li>Sociólogo y Magíster en Sociología, Pontificia Universidad Católica de Chile</li>
+<li>Asistente de Investigación, Escuela de Gobierno UC</li>
+</ul>
+<p class="bio-email">✉️ <a href="mailto:lorenzo_vives@uc.cl">lorenzo_vives@uc.cl</a></p>
+</div>
+</details>
+<p class="team-name">Lorenzo Vives</p>
+:::
+
+::: {.team-member}
+<details class="team-details">
+<summary><img src="claudia.webp" class="team-photo" alt="Claudia Giacoman"></summary>
+<div class="team-bio">
+<p class="bio-role">Rol: Asesoría y coordinación del proyecto</p>
+<ul class="bio-details">
+<li>Doctora en Sociología, École des Hautes Études en Sciences Sociales</li>
+<li>Master 2 en Sciences Sociales (mención Sociología), École des Hautes Études en Sciences Sociales</li>
+<li>Socióloga, Pontificia Universidad Católica de Chile</li>
+<li>Profesora Asociada, Instituto de Sociología UC</li>
+</ul>
+<p class="bio-email">✉️ <a href="mailto:cgiacoma@uc.cl">cgiacoma@uc.cl</a></p>
+</div>
+</details>
+<p class="team-name">Claudia Giacoman</p>
+:::
+
+::: {.team-member}
+<details class="team-details">
+<summary><img src="matias.webp" class="team-photo" alt="Matías Bargsted"></summary>
+<div class="team-bio">
+<p class="bio-role">Rol: Financiamiento</p>
+<ul class="bio-details">
+<li>Doctor en Ciencias Políticas, Universidad de Michigan, Ann Arbor</li>
+<li>Magíster en Sociología, Pontificia Universidad Católica de Chile</li>
+<li>Sociólogo, Pontificia Universidad Católica de Chile</li>
+<li>Director del Instituto de Sociología UC. Profesor Asociado</li>
+</ul>
+<p class="bio-email">✉️ <a href="mailto:mbargsted@uc.cl">mbargsted@uc.cl</a></p>
+</div>
+</details>
+<p class="team-name">Matías Bargsted</p>
+:::
+:::
+
+## Colaboradores
+
+::: {.collab-grid}
+::: {.collab-member}
+<details>
+<summary>
+<span class="name">Tomás Leva</span>
+<span class="role">Estudiante Sociología UC</span>
+</summary>
+<p class="collab-email">✉️ <a href="mailto:tgl@uc.cl">tgl@uc.cl</a></p>
+</details>
+:::
+
+::: {.collab-member}
+<details>
+<summary>
+<span class="name">Joaquín Bächler</span>
+<span class="role">Estudiante Ingeniería Ciencia de Datos UC</span>
+</summary>
+<p class="collab-email">✉️ <a href="mailto:jabachler@uc.cl">jabachler@uc.cl</a></p>
+</details>
+:::
+
+::: {.collab-member}
+<details>
+<summary>
+<span class="name">Gaspar Ramírez</span>
+<span class="role">Estudiante Ingeniería Ciencias de la Computación UC</span>
+</summary>
+<p class="collab-email">✉️ <a href="mailto:ramirezg@estudiante.uc.cl">ramirezg@estudiante.uc.cl</a></p>
+</details>
+:::
+:::

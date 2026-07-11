@@ -1,0 +1,7 @@
+---
+title: "Contacto"
+---
+
+Para contacto general, propuestas de implementación, colaboración o cualquier consulta sobre RaizQA, escríbenos:
+
+📧 [lorenzo_vives@uc.cl](mailto:lorenzo_vives@uc.cl)

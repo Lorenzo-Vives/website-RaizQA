@@ -1,0 +1,31 @@
+meta:
+  name: RaizQA
+
+color:
+  palette:
+    green-dark: "#2f6b4f"
+    green: "#3f8f63"
+    green-light: "#eaf3ec"
+    sand: "#faf9f5"
+    charcoal: "#2b2f2c"
+  foreground: charcoal
+  background: sand
+  primary: green
+  secondary: green-dark
+  link: green-dark
+
+typography:
+  fonts:
+    - family: "Inter"
+      source: google
+    - family: "Fraunces"
+      source: google
+      weight: [500, 600, 700]
+  base:
+    family: "Inter"
+    size: 1rem
+  headings:
+    family: "Fraunces"
+    weight: 600
+  link:
+    weight: 500

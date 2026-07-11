@@ -1,0 +1,79 @@
+---
+title: "¿Qué es RaizQA?"
+---
+
+RaizQA🌱 es un software de análisis cualitativo ***open source*** que nace de la necesidad de un software abierto, gratuito e intuitivo para realizar análisis e investigación cualitativa desde sus etapas formativas hasta investigación avanzada.
+
+## Funciones del software
+
+::: {.function-grid}
+::: {.function-card}
+### Gestión de proyectos con guardado automático
+Organiza tu investigación en proyectos independientes que se guardan automáticamente mientras trabajas, evitando la pérdida de avances.
+:::
+
+::: {.function-card}
+### Importación de múltiples formatos
+Incorpora tus fuentes de datos en texto (.txt, .pdf, .docx) e imágenes (.png, .jpg, .jpeg, .bmp, .gif, .tiff), sin necesidad de conversiones previas.
+:::
+
+::: {.function-card}
+### Codificación de texto por selección
+Selecciona cualquier fragmento de un documento y asígnale uno o más códigos en pocos clics.
+:::
+
+::: {.function-card}
+### Codificación de imágenes por zonas
+Codifica regiones específicas de una imagen; las coordenadas quedan ancladas en el espacio de la imagen y se mantienen estables aunque cambie el zoom o la vista.
+:::
+
+::: {.function-card}
+### Árbol de códigos con subcódigos, color y memos
+Organiza el sistema de códigos en una estructura jerárquica, asigna colores para identificarlos visualmente y adjunta memos con anotaciones analíticas.
+:::
+
+::: {.function-card}
+### Diario de codificación con exportación a Word
+Registra las decisiones y reflexiones del proceso analítico en un diario integrado, exportable a Word para dar trazabilidad al análisis.
+:::
+
+::: {.function-card}
+### Exportación del sistema de códigos a Excel
+Lleva tu árbol de códigos a una planilla Excel para respaldarlo, compartirlo o analizarlo fuera del software.
+:::
+
+::: {.function-card}
+### Visor de fragmentos codificados
+Revisa todos los fragmentos asociados a un código en una sola vista, sin recorrer documento por documento.
+:::
+
+::: {.function-card}
+### Comparación de documentos
+Contrasta dos o más documentos codificados para identificar similitudes, diferencias y patrones entre casos.
+:::
+
+::: {.function-card}
+### Code Matrix Browser
+Visualiza la relación entre códigos y documentos en una matriz interactiva, con vista de tabla y de mapa de calor (heatmap).
+:::
+
+::: {.function-card}
+### Nube de palabras
+Genera nubes de palabras a partir de tus documentos para explorar rápidamente los términos más frecuentes.
+:::
+
+::: {.function-card}
+### Agrupación de códigos en temas o categorías
+Reúne códigos relacionados en temas o categorías de mayor nivel para facilitar el análisis interpretativo.
+:::
+
+::: {.function-card}
+### Estudio de casos
+Define casos de estudio a partir de documentos o carpetas completas para comparar unidades de análisis.
+:::
+
+::: {.function-card}
+### Trabajo en equipo
+Exporta, importa y fusiona proyectos para colaborar con otros investigadores sin perder la codificación realizada.
+:::
+:::

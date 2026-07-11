@@ -1,0 +1,34 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+# RaizQA 🌱
+<p class="subtitle">Análisis cualitativo, abierto y para todos</p>
+
+Descubre un nuevo software de análisis cualitativo open source y totalmente gratis, pensado para acompañar la investigación desde sus etapas formativas hasta la investigación avanzada.
+
+::: {.hero-buttons}
+[Instalar RaizQA](Instalación.qmd){.btn-primary}
+[¿Qué es RaizQA?](about.qmd){.btn-secondary}
+:::
+:::
+
+::: {.features}
+::: {.feature-card}
+### 🔓 Open source
+Código abierto y transparente, desarrollado con y para la comunidad académica.
+:::
+
+::: {.feature-card}
+### 💸 Totalmente gratuito
+Sin licencias, suscripciones ni costos ocultos.
+:::
+
+::: {.feature-card}
+### 🧭 Intuitivo
+Pensado para acompañarte en cada etapa del análisis cualitativo.
+:::
+:::

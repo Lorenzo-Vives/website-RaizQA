@@ -1,0 +1,5 @@
+---
+title: "Reporta un bug"
+---
+
+Para reportar un bug, envía un mail a [lorenzo_vives@uc.cl](mailto:lorenzo_vives@uc.cl) o levanta una issue en GitHub: [https://github.com/Lorenzo-Vives/RaizQA/issues](https://github.com/Lorenzo-Vives/RaizQA/issues)
