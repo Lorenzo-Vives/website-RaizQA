@@ -18,7 +18,7 @@ Descarga la última versión disponible: **RaizQA v1.0piloto**
 2. Copia y pega el siguiente comando para descargar la última versión de RaizQA:
 
 ```bash
-curl -s https://raw.githubusercontent.com/Lorenzo-Vives/RaizQA/main/install_mac.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Lorenzo-Vives/RaizQA/main/install_mac.sh | bash
 ```
 
 ## Instalar en Linux
