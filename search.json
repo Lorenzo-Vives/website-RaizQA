@@ -95,7 +95,7 @@
     "href": "Instalación.html#instalar-en-mac",
     "title": "Instalación",
     "section": "Instalar en Mac",
-    "text": "Instalar en Mac\n\nUsando la terminal [cmd + espacio] → escribe “Terminal” → Enter.\nCopia y pega el siguiente comando para descargar la última versión de RaizQA:\n\ncurl -s https://raw.githubusercontent.com/Lorenzo-Vives/RaizQA/main/install_mac.sh | bash"
+    "text": "Instalar en Mac\n\nUsando la terminal [cmd + espacio] → escribe “Terminal” → Enter.\nCopia y pega el siguiente comando para descargar la última versión de RaizQA:\n\ncurl -fsSL https://raw.githubusercontent.com/Lorenzo-Vives/RaizQA/main/install_mac.sh | bash"
   },
   {
     "objectID": "Instalación.html#instalar-en-linux",
